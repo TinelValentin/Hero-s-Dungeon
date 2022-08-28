@@ -1,0 +1,24 @@
+-Incepi cu un erou basic si poti descoperi in dungeonuri un erou nou , fiecare cu o abilitate?
+
+-Incepi cu un erou cu o abilitate basic, poti upgrada abilitatile lui si cand ajungi la un max pe o ramura evoluezi?
+
+-Incepi cu un erou etc etc, poti lua abilitati si sa le combini? -kinda simple and lame
+
+-Iti poti alege o clasa la inceput, iti upgradezi abilitatile si poti evolua dupa un lvl
+
+-Poti avea animale, dar pe care tot tu sa le controlezi? (poate doar cu comenzi gen defense/attack? meh)
+
+-Initial esti un animal si dupa fiecare dungeon poti evolua??? (hmmm)
+
+-Reward cu drawback
+
+-combat melle/range
+
+
+
+
+
+
+
+//i should implement a hitbox for attack and a hitbox for touching a player for mobs but im too lazy, so for now it works
+

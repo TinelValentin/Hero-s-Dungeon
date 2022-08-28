@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - spawnPoint
+  - Rooms
+  - weapon
+  - enemy
+  - player
+  - blockingProjectile
+  - boss
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Blocking
+  - Human
+  - Floor
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Wall
+    uniqueID: 2465298897
+    locked: 0
+  - name: Floor
+    uniqueID: 2779091203
+    locked: 0
+  - name: Human
+    uniqueID: 1831679819
+    locked: 0
+  - name: ObstaclesBack
+    uniqueID: 1850899565
+    locked: 0
+  - name: WallBack
+    uniqueID: 296869925
+    locked: 0
+  - name: ObstaclesFront
+    uniqueID: 2339217367
+    locked: 0

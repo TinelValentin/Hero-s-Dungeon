@@ -1,0 +1,744 @@
+fileFormatVersion: 2
+guid: 55f8f808fddeb9e46b726022728721a8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2534091872331386569
+    second: NecromancerEnter9
+  - first:
+      213: -9003100665357797207
+    second: NecromancerEnter10
+  - first:
+      213: -2708775735220500242
+    second: NecromancerEnterAnimation_2
+  - first:
+      213: -5897266564270447672
+    second: NecromancerEnter11
+  - first:
+      213: 1447052009474055432
+    second: NecromancerEnterAnimation_4
+  - first:
+      213: 5405824008579392756
+    second: NecromancerEnter12
+  - first:
+      213: -8494661070447516163
+    second: NecromancerEnterAnimation_6
+  - first:
+      213: 8439850959582868298
+    second: NecromancerEnterAnimation_7
+  - first:
+      213: -5447129006305798680
+    second: NecromancerEnter8
+  - first:
+      213: 3446116706768744334
+    second: NecromancerEnterAnimation_9
+  - first:
+      213: 435755585457345752
+    second: NecromancerEnter7
+  - first:
+      213: 725464420067672469
+    second: NecromancerEnterAnimation_11
+  - first:
+      213: -2006153059483179185
+    second: NecromancerEnter6
+  - first:
+      213: -1386753176131851458
+    second: NecromancerEnterAnimation_13
+  - first:
+      213: -596096837325265901
+    second: NecromancerEnter5
+  - first:
+      213: -1489582709349939799
+    second: NecromancerEnter1
+  - first:
+      213: -4035633606353348072
+    second: NecromancerEnterAnimation_16
+  - first:
+      213: -3933826968244309561
+    second: NecromancerEnterAnimation_17
+  - first:
+      213: 543447316193521885
+    second: NecromancerEnter2
+  - first:
+      213: 7233626201015416718
+    second: NecromancerEnterAnimation_19
+  - first:
+      213: 1389308660024255226
+    second: NecromancerEnterAnimation_20
+  - first:
+      213: 1760611740134271416
+    second: NecromancerEnter3
+  - first:
+      213: 1608297973786377119
+    second: NecromancerEnterAnimation_22
+  - first:
+      213: 556313159766740837
+    second: NecromancerEnterAnimation_23
+  - first:
+      213: 3038781034380886365
+    second: NecromancerEnterAnimation_24
+  - first:
+      213: -1252467001804559127
+    second: NecromancerEnter4
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: NecromancerEnter9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 120
+        width: 36
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 731bb794ed815dcd0800000000000000
+      internalID: -2534091872331386569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NecromancerEnter10
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 120
+        width: 36
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a8f34435af8e0380800000000000000
+      internalID: -9003100665357797207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NecromancerEnterAnimation_2
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 142
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee80cfd02de786ad0800000000000000
+      internalID: -2708775735220500242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NecromancerEnter11
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 120
+        width: 36
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c32fda0e43b82ea0800000000000000
+      internalID: -5897266564270447672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NecromancerEnterAnimation_4
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 142
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80d5734c226f41410800000000000000
+      internalID: 1447052009474055432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NecromancerEnter12
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 120
+        width: 36
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f427a56b48550b40800000000000000
+      internalID: 5405824008579392756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NecromancerEnterAnimation_6
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 142
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df5e2a853c6ec1a80800000000000000
+      internalID: -8494661070447516163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NecromancerEnterAnimation_7
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 128
+        width: 4
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a433d234bbf502570800000000000000
+      internalID: 8439850959582868298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NecromancerEnter8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 66
+        width: 36
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e59a656709e764b0800000000000000
+      internalID: -5447129006305798680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NecromancerEnterAnimation_9
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 48
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8f6d71f2e013df20800000000000000
+      internalID: 3446116706768744334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NecromancerEnter7
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 66
+        width: 36
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d4d310756d1c0600800000000000000
+      internalID: 435755585457345752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NecromancerEnterAnimation_11
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 48
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 591815fdb0e511a00800000000000000
+      internalID: 725464420067672469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NecromancerEnter6
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 66
+        width: 36
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f472174eb66b824e0800000000000000
+      internalID: -2006153059483179185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NecromancerEnterAnimation_13
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 48
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3b2489655341cce0800000000000000
+      internalID: -1386753176131851458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NecromancerEnter5
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 66
+        width: 36
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3146e7fa51d3ab7f0800000000000000
+      internalID: -596096837325265901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NecromancerEnter1
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 21
+        width: 36
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a502a10b60f35be0800000000000000
+      internalID: -1489582709349939799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NecromancerEnterAnimation_16
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 44
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81a1ea1ed9c8ef7c0800000000000000
+      internalID: -4035633606353348072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NecromancerEnterAnimation_17
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 42
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c132f5f63d3869c0800000000000000
+      internalID: -3933826968244309561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NecromancerEnter2
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 21
+        width: 36
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd0badb6476ba8700800000000000000
+      internalID: 543447316193521885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NecromancerEnterAnimation_19
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 44
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e877b7554b0036460800000000000000
+      internalID: 7233626201015416718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NecromancerEnterAnimation_20
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 42
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af2ae1c8dd0d74310800000000000000
+      internalID: 1389308660024255226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NecromancerEnter3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 21
+        width: 36
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b9e51eac03fe6810800000000000000
+      internalID: 1760611740134271416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NecromancerEnterAnimation_22
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 44
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9b748c6c72d15610800000000000000
+      internalID: 1608297973786377119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NecromancerEnterAnimation_23
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 42
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56f85cf0fdb68b700800000000000000
+      internalID: 556313159766740837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NecromancerEnterAnimation_24
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 42
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d518778204beb2a20800000000000000
+      internalID: 3038781034380886365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NecromancerEnter4
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 21
+        width: 36
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ec6a80d5e75e9ee0800000000000000
+      internalID: -1252467001804559127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
